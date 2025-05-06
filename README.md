@@ -31,4 +31,4 @@ Berikut ini rekomendasi yang dapat dilakukan untuk manajemen adalah sebagai beri
 - Evaluasi ulang beban kerja, program pengembangan karier, dan pemberian insentif untuk karyawan berkinerja tinggi.
 - Tingkatkan peluang pelatihan dan business engagement untuk semua level karyawan.
 - Lakukan survei internal berkala untuk menggali lebih dalam alasan resign yang tidak terlihat di data.
-- Prediksi kecenderungan karyawan melakukan resign dapat dilakukan melalui website berikut: [Attrition Prediction](https://attrition-prediction-company.streamlit.app/)
+- Prediksi kecenderungan karyawan melakukan resign dapat dilakukan melalui website berikut: [Attrition Prediction](https://company-attrition-prediction.streamlit.app/)

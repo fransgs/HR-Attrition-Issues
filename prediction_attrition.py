@@ -7,8 +7,8 @@ import os
 from typing import Dict, Any, Tuple, List
 
 # --- Constants ---
-DATA_FILE = 'employee_data_cleaned.csv'
-MODEL_FILE = 'best_model_gb.joblib'
+DATA_FILE = 'HR-Attrition-Issues/employee_data_cleaned.csv'
+MODEL_FILE = 'HR-Attrition-Issues/best_model_gb.joblib'
 REQUIRED_COLUMNS = [ # Define the exact order expected by the model after preprocessing
     'Age', 'BusinessTravel', 'DailyRate', 'Department', 'DistanceFromHome',
     'Education', 'EducationField', 'EnvironmentSatisfaction', 'Gender',

@@ -7,8 +7,9 @@ import os
 from typing import Dict, Any, Tuple, List
 
 # --- Constants ---
-DATA_FILE = 'HR-Attrition-Issues/employee_data_cleaned.csv'
-MODEL_FILE = 'HR-Attrition-Issues/best_model_gb.joblib'
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_FILE = os.path.join(BASE_DIR, 'employee_data_cleaned.csv')
+MODEL_FILE = os.path.join(BASE_DIR, 'best_model_gb.joblib')
 REQUIRED_COLUMNS = [ # Define the exact order expected by the model after preprocessing
     'Age', 'BusinessTravel', 'DailyRate', 'Department', 'DistanceFromHome',
     'Education', 'EducationField', 'EnvironmentSatisfaction', 'Gender',

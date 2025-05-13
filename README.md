@@ -27,7 +27,7 @@ Berdasarkan visualisasi data ini, dapat disimpulkan bahwa:
 
 ### Recommendation Action Items
 Berikut ini rekomendasi yang dapat dilakukan untuk manajemen adalah sebagai berikut:
-- Fokus pada peningkatan retensi di usia muda, terutama dalam departemen Sales dan peran teknis.
+- Fokus pada peningkatan retensi di usia muda, terutama dalam departemen Sales dan Laboratory Technician.
 - Evaluasi ulang beban kerja, program pengembangan karier, dan pemberian insentif untuk karyawan berkinerja tinggi.
 - Tingkatkan peluang pelatihan dan business engagement untuk semua level karyawan.
 - Lakukan survei internal berkala untuk menggali lebih dalam alasan resign yang tidak terlihat di data.
